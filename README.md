@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Iniciando a carreira de desenvolvedor
-- 🌱 Estudando Git e GitHub
+- 🌱 Estudando Html e CSS
 
 <div align="center">
   <a href="https://github.com/lorenzoantico">
