@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Desenvolvedor Front-End
+- 🔭 Desenvolvedor de software em formação
 - ⚙️ HTML | CSS | JavaScript
 
 <div align="center">
