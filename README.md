@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Desenvolvedor de software em formação
-- ⚙️ HTML | CSS | JavaScript
+- ⚙️ HTML | CSS | JavaScript | Git | GitHub
 
 <div align="center">
   <a href="https://github.com/lorenzoantico">
