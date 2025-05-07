@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Desenvolvedor de software em formação
-- ⚙️ HTML | CSS | JavaScript | Git | GitHub
+- 🔭 Analista de Dados
+- ⚙️ Analista de Dados | Data-Driven Solutions | Excel | Power BI | Python
 
 <div align="center">
   <a href="https://github.com/lorenzoantico">
