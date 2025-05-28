@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Analista de Dados
-- ⚙️ Analista de Dados | Data-Driven Solutions | Excel | Power BI | Python
+- ⚙️ Analise de Dados | Data-Driven Solutions | Excel | Power BI | Python
 
 <div align="center">
   <a href="https://github.com/lorenzoantico">
